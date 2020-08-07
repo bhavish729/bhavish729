@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.bhavishrao.com" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/bhavishrao/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/bhavish_rao/?hl=en" />][instagram]
+[<img align="left" alt="bhavishrao.com" width="22px" src="https://www.bhavishrao.com" />][website]
+[<img align="left" alt="bhavishrao | LinkedIn" width="22px" src="https://www.linkedin.com/in/bhavishrao/" />][linkedin]
+[<img align="left" alt="bhavish_rao | Instagram" width="22px" src="https://www.instagram.com/bhavish_rao/?hl=en" />][instagram]
 
 <br />
 
