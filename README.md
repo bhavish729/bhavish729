@@ -9,6 +9,10 @@
 
 ### Connect with me:
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 [<img align="left" alt="bhavishrao.com" width="22px" src="https://www.bhavishrao.com" />][website]
 [<img align="left" alt="bhavishrao | LinkedIn" width="22px" src="https://www.linkedin.com/in/bhavishrao/" />][linkedin]
 [<img align="left" alt="bhavish_rao | Instagram" width="22px" src="https://www.instagram.com/bhavish_rao/?hl=en" />][instagram]
@@ -27,6 +31,9 @@
 <br />
 <br />
 
+[website]: https://bhavishrao.com
+[instagram]: https://www.instagram.com/bhavish_rao/?hl=en
+[linkedin]: https://www.linkedin.com/in/bhavishrao/
 
 
 <!--
