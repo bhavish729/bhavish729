@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 😅
 - 👯 I’m looking to collaborate with other content creators 🤩
 - 🥅 2020 Goals: Release my app idea on both ios and android platforms 🤖
-- ⚡ Fun fact: I have had some crazy adventures on my motocycle 🏍💨
+- ⚡ Fun fact: I've had some crazy adventures on my motocycle 🏍💨
 
 ### Connect with me:
 
